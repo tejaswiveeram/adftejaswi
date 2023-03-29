@@ -1,0 +1,9 @@
+{
+	"name": "daaatttaaafffactory11111",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fa19645-2172-4aac-b30a-d1f122b16648",
+		"tenantId": "ec9e1b21-ff8a-4f33-be8b-4b1205840a8f"
+	}
+}
