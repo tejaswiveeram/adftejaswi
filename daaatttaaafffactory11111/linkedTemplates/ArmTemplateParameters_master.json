@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "daaatttaaafffactory11111"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"filenamedatabaselinkedservice_connectionString": {
+			"value": ""
+		},
+		"linkedservice_for_source_connectionString": {
+			"value": ""
+		},
+		"linkedservice_for_target_connectionString": {
+			"value": ""
+		},
+		"ls_gen2_accountKey": {
+			"value": ""
+		},
+		"ls_gen2_output_accountKey": {
+			"value": ""
+		},
+		"ls_gen2_properties_typeProperties_url": {
+			"value": "https://instancecce.dfs.core.windows.net/"
+		},
+		"ls_gen2_output_properties_typeProperties_url": {
+			"value": "https://instancecce.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
